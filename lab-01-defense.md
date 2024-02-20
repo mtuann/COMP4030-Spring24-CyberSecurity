@@ -8,6 +8,21 @@
 - [Video: Most Common Security Threats  (Part 3) by Naj Qazi](https://www.youtube.com/watch?v=jYr3YOz2gtA&list=PLFHOoRUI-sbTsCSgzQ4XP9IKRFbLTMG6H&index=46)
 
 ## Key Concepts
+### Attacks
+- Address Spoofing: Faking the source address of a packet to hide the identity of the sender
+- Denial of Service (DoS): Overloading a system with requests to make it unavailable to legitimate users (TCP SYN Flood, Ping of Death, Teardrop, etc.)
+- Distributed Denial of Service (DDoS): Coordinated DoS attacks from multiple sources to overwhelm a target
+- Reflection/Amplification Attacks: Using a third-party server to reflect and amplify an attack on a target
+- Man in the Middle (MitM): Intercepting and altering communication between two parties
+- Malware
+    - Virus: Malicious software that attaches itself to a legitimate program and spreads when the program is executed
+    - Worm: Self-replicating malware that spreads across a network without user intervention
+    - Trojan Horse: Malware disguised as legitimate software
+    - Randomware: Malware that encrypts files and demands payment for decryption
+- Human Vulnerabilities
+    - Social Engineering, Insider Threats, etc.
+    - 
+### Defenses
 - Security Policies
     - Define security standards and guidelines for user authentication and authorization.
     - User awareness and training on security policies
