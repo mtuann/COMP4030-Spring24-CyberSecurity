@@ -6,7 +6,7 @@
 - [Video: Most Common Security Threats  (Part 1) by Naj Qazi](https://www.youtube.com/watch?v=kL02qyNN4bE&list=PLFHOoRUI-sbTsCSgzQ4XP9IKRFbLTMG6H&index=44)
 - [Video: Most Common Security Threats  (Part 2) by Naj Qazi](https://www.youtube.com/watch?v=1vW6xF4ecLE&list=PLFHOoRUI-sbTsCSgzQ4XP9IKRFbLTMG6H&index=45)
 - [Video: Most Common Security Threats  (Part 3) by Naj Qazi](https://www.youtube.com/watch?v=jYr3YOz2gtA&list=PLFHOoRUI-sbTsCSgzQ4XP9IKRFbLTMG6H&index=46)
-
+- [Chapter 15: Biometrics, Security Engineering, 2nd Edition by Ross Anderson](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c15.pdf)
 ## Key Concepts
 ### Attacks
 - Address Spoofing: Faking the source address of a packet to hide the identity of the sender

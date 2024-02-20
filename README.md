@@ -30,3 +30,4 @@ This repository is for the Spring 2024 Cyber Security class at the VinUniversity
 
 ## Source
 - [Step by step guide to becoming a Cyber Security Expert in 2024](https://roadmap.sh/cyber-security)
+- [Security Engineering by Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
