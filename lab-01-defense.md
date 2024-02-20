@@ -21,7 +21,9 @@
     - Randomware: Malware that encrypts files and demands payment for decryption
 - Human Vulnerabilities
     - Social Engineering, Insider Threats, etc.
-    - 
+    - Phishing: Sending fraudulent emails to trick recipients into revealing sensitive information
+    - Dictionary Attack/ Brute Force Attack: Trying a list of common passwords to gain unauthorized access
+    - Physical Security: Unauthorized access to physical devices and data
 ### Defenses
 - Security Policies
     - Define security standards and guidelines for user authentication and authorization.
