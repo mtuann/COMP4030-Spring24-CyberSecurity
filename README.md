@@ -1,6 +1,6 @@
 # COMP4030-Spring24-CyberSecurity
 
-This repository is for the Spring 2024 Cyber Security class at the VinUniversity.
+This repository is for the Spring 2024 Cyber Security class at VinUniversity.
 
 ## Team Members
 - Instructor: [Prof. Kok-Seng Wong](https://scholar.google.com/citations?hl=en&user=WQyULhIAAAAJ&view_op=list_works&sortby=pubdate)
