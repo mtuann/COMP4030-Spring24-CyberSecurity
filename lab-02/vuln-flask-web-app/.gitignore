@@ -1,0 +1,8 @@
+.venv/
+venv/
+temp/*
+!temp/uploads/.gitkeep
+static/uploads/*
+!static/uploads/.gitkeep
+__pycache__
+.DS_Store

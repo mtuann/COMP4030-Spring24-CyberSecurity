@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="section">
+  <h1 class="title">SQL Injection</h1>
+
+  <div class="block">
+    <pre>
+        Username: admin
+        Password: Admin123
+    </pre>
+    <code lang="sql">
+        {{ sql }}
+    </code>
+  </div>
+
+  <div class="block">
+    <form action="/sql-injection/login" method="post" style="max-width: 300px;">
+      <div class="field">
+        <label class="label">Username</label>
+        <div class="control">
+          <input class="input" name="username" type="text" placeholder="myuser" required>
+        </div>
+      </div>
+      <div class="field">
+        <label class="label">Password</label>
+        <div class="control">
+          <input class="input" name="password" type="password" placeholder="********" required>
+        </div>
+      </div>
+      
+      <div class="field is-grouped">
+        <div class="control">
+          <button class="button is-link">Signin</button>
+        </div>
+      </div>
+      {% if logged == True %}
+        <div class="notification is-success">
+          Login successful!
+        </div>
+      {% elif logged == False %}
+        <div class="notification is-danger">
+          Invalid Credentials
+        </div>
+      {% elif logged == None %}
+      {% endif %}
+    </form>
+    
+  </div>
+</section>
+{% endblock %}
