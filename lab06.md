@@ -10,7 +10,7 @@ This lab simulates a scenario where an adversary wants to plant a backdoor in a 
 ### Materials
 
 - Python libraries: PyTorch
-- Dataset: CIFAR-10 image dataset [https://www.utoronto.ca/news/tags/cifar](https://www.utoronto.ca/news/tags/cifar)
+- Dataset: CIFAR-10 image dataset [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 - Pre-written image classification model. You will need to modify the code to implement the backdoor attack.
 
 You can download the codebase from the following this Github [link](https://github.com/mtuann/COMP4030-Spring24-CyberSecurity/blob/main/lab-06/cifar10-backdoor.py).
