@@ -1,6 +1,9 @@
 # COMP4040
 backup/
 lab-03/
+lab-06/data/
+lab-06/train-*.py
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
