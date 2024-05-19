@@ -1,7 +1,3 @@
-Here's the provided text formatted in Markdown:
-
----
-
 ## Introduction
 
 This lab will guide you through the process of reversing and analyzing .NET malware samples. We will cover both static analysis techniques using dnSpy as well as dynamic analysis with the ANY.RUN sandbox. The ultimate goal is to develop preventative vaccines and decryptors for real malware threats. The lab materials are available at [https://www.tryhackme.com/jr/dotnetmalwarere](https://www.tryhackme.com/jr/dotnetmalwarere).
